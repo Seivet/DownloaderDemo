@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Muli</string>
+    <string name="splash_text">GeekBand</string>
+    <string name="click_to_enter">点击启动</string>
+    <string name="hello">Hello Muli</string>
+    <string name="first">List View Button</string>
+    <string name="second">Grid View Button</string>
+    <string name="list_view_text">条数:</string>
+    <string name="name_01">阿张</string>
+    <string name="age_01">5岁</string>
+    <string name="scroll_view_button">Scroll View Button</string>
+    <string name="third">Test View Button</string>
+    <string name="fragment_button">Fragment Button</string>
+    <string name="handler_button">Handler Button</string>
+    <string name="handler_text_view">Android Handler</string>
+    <string name="music_button">Music Button</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="send_broadcast">Send Broadcast</string>
+    <string name="broadcast_button">Broadcast button</string>
+    <string name="web_view_button">Web View Button</string>
+    <string name="data_counts_button">确定</string>
+    <string name="database_button">Database Button</string>
+    <string name="network_button">Network Button</string>
+    <string name="hint_string">请输入下载地址</string>
+    <string name="button_string">下载</string>
+</resources>
